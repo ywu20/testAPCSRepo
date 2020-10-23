@@ -1,4 +1,4 @@
-import java.util.Arrays;
+//import java.util.Arrays;
 public class Demo{
   public static String arrToString(int[] arr){
   String out="{";
@@ -50,7 +50,7 @@ public static int[][] create2DArrayRandomized(int rows, int cols, int maxValue){
 }
 
   public static void main(String[] args){
-
+/*
     int[] arr0={7,11,9};
     int[] arr1= {69,45,2,89,4};
     int[] arr2= {2,5,6,5};
@@ -73,6 +73,6 @@ public static int[][] create2DArrayRandomized(int rows, int cols, int maxValue){
     System.out.println(arrayDeepToString(arrays[1]).replace("}, ","},\n"));
     System.out.println("\nRandom 9X(0,1 or 2) up to 10");
     System.out.println(arrayDeepToString(arrays[2]).replace("}, ","},\n"));
-
+*/
 }
 }
